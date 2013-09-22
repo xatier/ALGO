@@ -1,0 +1,62 @@
+  %   cumulative   self              self     total           
+ time   seconds   seconds    calls  ms/call  ms/call  name    
+ 85.45      0.17     0.17   131071     0.00     0.00  merge(int*, int, int, int)
+ 15.08      0.20     0.03   131072     0.00     0.00  isort(int*, int)
+  0.00      0.20     0.00        1     0.00     0.00  _GLOBAL__sub_I__Z5isortPii
+  0.00      0.20     0.00        1     0.00     0.00  __static_initialization_and_destruction_0(int, int)
+  %   cumulative   self              self     total           
+ time   seconds   seconds    calls  ms/call  ms/call  name    
+ 84.44      0.21     0.21   131071     0.00     0.00  merge(int*, int, int, int)
+ 16.08      0.25     0.04   131072     0.00     0.00  isort(int*, int)
+  0.00      0.25     0.00        1     0.00     0.00  _GLOBAL__sub_I__Z5isortPii
+  0.00      0.25     0.00        1     0.00     0.00  __static_initialization_and_destruction_0(int, int)
+  %   cumulative   self              self     total           
+ time   seconds   seconds    calls  ms/call  ms/call  name    
+ 95.50      0.19     0.19   131071     0.00     0.00  merge(int*, int, int, int)
+  5.03      0.20     0.01        1    10.05   201.05  msort(int*, int, int)
+  0.00      0.20     0.00   131072     0.00     0.00  isort(int*, int)
+  0.00      0.20     0.00        1     0.00     0.00  _GLOBAL__sub_I__Z5isortPii
+  %   cumulative   self              self     total           
+ time   seconds   seconds    calls  ms/call  ms/call  name    
+100.52      0.18     0.18   131071     0.00     0.00  merge(int*, int, int, int)
+  0.00      0.18     0.00   131072     0.00     0.00  isort(int*, int)
+  0.00      0.18     0.00        1     0.00     0.00  _GLOBAL__sub_I__Z5isortPii
+  0.00      0.18     0.00        1     0.00     0.00  __static_initialization_and_destruction_0(int, int)
+  %   cumulative   self              self     total           
+ time   seconds   seconds    calls  ms/call  ms/call  name    
+ 85.45      0.17     0.17   131071     0.00     0.00  merge(int*, int, int, int)
+ 15.08      0.20     0.03   131072     0.00     0.00  isort(int*, int)
+  0.00      0.20     0.00        1     0.00     0.00  _GLOBAL__sub_I__Z5isortPii
+  0.00      0.20     0.00        1     0.00     0.00  __static_initialization_and_destruction_0(int, int)
+=========================
+  %   cumulative   self              self     total           
+ time   seconds   seconds    calls   s/call   s/call  name    
+ 90.51      2.27     2.27  1048575     0.00     0.00  merge(int*, int, int, int)
+  8.01      2.47     0.20  1048576     0.00     0.00  isort(int*, int)
+  2.00      2.52     0.05        1     0.05     2.52  msort(int*, int, int)
+  0.00      2.52     0.00        1     0.00     0.00  _GLOBAL__sub_I__Z5isortPii
+  %   cumulative   self              self     total           
+ time   seconds   seconds    calls   s/call   s/call  name    
+ 87.17      2.23     2.23  1048575     0.00     0.00  merge(int*, int, int, int)
+ 11.78      2.53     0.30  1048576     0.00     0.00  isort(int*, int)
+  1.57      2.57     0.04        1     0.04     2.57  msort(int*, int, int)
+  0.00      2.57     0.00        1     0.00     0.00  _GLOBAL__sub_I__Z5isortPii
+  %   cumulative   self              self     total           
+ time   seconds   seconds    calls   s/call   s/call  name    
+ 85.60      1.96     1.96  1048575     0.00     0.00  merge(int*, int, int, int)
+ 14.92      2.30     0.34  1048576     0.00     0.00  isort(int*, int)
+  0.00      2.30     0.00        1     0.00     0.00  _GLOBAL__sub_I__Z5isortPii
+  0.00      2.30     0.00        1     0.00     0.00  __static_initialization_and_destruction_0(int, int)
+  %   cumulative   self              self     total           
+ time   seconds   seconds    calls   s/call   s/call  name    
+ 84.58      1.92     1.92  1048575     0.00     0.00  merge(int*, int, int, int)
+ 15.50      2.27     0.35  1048576     0.00     0.00  isort(int*, int)
+  0.44      2.28     0.01        1     0.01     2.28  msort(int*, int, int)
+  0.00      2.28     0.00        1     0.00     0.00  _GLOBAL__sub_I__Z5isortPii
+  %   cumulative   self              self     total           
+ time   seconds   seconds    calls   s/call   s/call  name    
+ 81.43      1.86     1.86  1048575     0.00     0.00  merge(int*, int, int, int)
+ 16.68      2.25     0.38  1048576     0.00     0.00  isort(int*, int)
+  2.41      2.30     0.06        1     0.06     2.30  msort(int*, int, int)
+  0.00      2.30     0.00        1     0.00     0.00  _GLOBAL__sub_I__Z5isortPii
+=========================
